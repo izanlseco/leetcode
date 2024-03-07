@@ -1,8 +1,8 @@
-package com.leet.code;
+package com.leet.code.anagram;
 
 import java.util.Arrays;
 
-public class LeetCode {
+public class AnagramSort {
 
     public Boolean anagram(String firstWord, String secondWord) {
         var a = firstWord.toCharArray();
